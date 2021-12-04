@@ -1,0 +1,24 @@
+{
+  "name": "eth-todo-list",
+  "version": "1.0.0",
+  "main": "truffle-config.js",
+  "repository": "git@github.com:asingh04/eth-todo-list.git",
+  "author": "tech.singh.abhishek@gmail.com",
+  "license": "MIT",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "dev": "lite-server"
+  },
+  "devDependencies": {
+    "bootstrap": "5.1.3",
+    "chai": "4.3.4",
+    "chai-as-promised": "7.1.1",
+    "chai-bignumber": "3.0.0",
+    "lite-server": "2.6.1",
+    "nodemon": "2.0.15",
+    "truffle": "5.4.23",
+    "@truffle/contract": "4.3.43"
+  }
+}
